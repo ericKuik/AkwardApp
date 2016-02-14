@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Awkward Silence App</string>
+    <string name="tekst1">Heb jij wel eens een prijs gewonnen?</string>
+    <string name="tekst2">Heb jij ook broers of zussen?</string>
+    <string name="tekst3">Naar welk land zou je graag nog heen willen?</string>
+    <string name="tekst4">werken om te leven, of leven om te werken?</string>
+    <string name="tekst5">koffie of thee?</string>
+    <string name="tekst6">denk je in woorden of beelden?</string>
+    <string name="tekst7">wat zou je zeker nog eens willen doen?</string>
+    <string name="tekst8">wordt kunst mooier als je weet wat het voorstelt</string>
+    <string name="tekst9">Waar was je laatste vakantie naar toe?</string>
+    <string name="tekst10">Nog iets gedaan van het weekend?</string>
+    <string name="tekst11">Ben jij meer een buiten of binnen mens?</string>
+    <string name="Button_Theme1_name">Button_Algemeen</string>
+</resources>
